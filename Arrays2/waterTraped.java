@@ -17,7 +17,7 @@ public class waterTraped {
                 right--;
             }
         }
-
+    
         System.out.println(maxWater);
     }
     public static void main(String[] args) {
