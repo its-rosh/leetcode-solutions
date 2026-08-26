@@ -1,4 +1,4 @@
-public class SingleElement {
+public class single_element {
 
     public static int singleNumber(int[] nums) {
 
